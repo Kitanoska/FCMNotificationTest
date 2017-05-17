@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "780990075068",
+    "firebase_url": "https://notificationtest-fd5e5.firebaseio.com",
+    "project_id": "notificationtest-fd5e5",
+    "storage_bucket": "notificationtest-fd5e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780990075068:android:d489f65ea9a434ae",
+        "android_client_info": {
+          "package_name": "com.natalija.notificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780990075068-aa6ukh3lp10d7tbc1gtsl0qm5fng9l65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.natalija.notificationtest",
+            "certificate_hash": "75b9cd22b0ff65c354fec3418dfa28218e3d4f54"
+          }
+        },
+        {
+          "client_id": "780990075068-pvh76b4mcs2t7j8k3h1eknk9qk58htig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97mxqqPVf9TEz-PS_R_S5DzbRy38o1LI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780990075068-pvh76b4mcs2t7j8k3h1eknk9qk58htig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

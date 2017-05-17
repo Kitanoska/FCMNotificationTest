@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationTest</string>
+    <string name="msg_subscribed">Subscribed to</string>
+    <string name="group1">Sports</string>
+    <string name="group2">Weather</string>
+    <string name="senderId">780990075068</string>
+</resources>

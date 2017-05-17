@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity {
     private class MessageBroadcastReciver extends BroadcastReceiver {
         @Override
         public void onReceive(Context context, Intent intent) {
-            refreshTextMessage(intent.getStringExtra("msgRecieved"));
+            refreshTextMessage(intent.getStringExtra("msgRecieved") );
         }
     }
 
